@@ -1,0 +1,6 @@
+.keyword {
+    position: relative;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: #0070f3;
+}
